@@ -1,6 +1,6 @@
 {
   "name": "cute-log",
-  "version": "0.0.0-semantic-release",
+  "version": "0.0.0",
   "description": "cute logging made easy",
   "main": "./lib/index.js",
   "directories": {
